@@ -21,7 +21,7 @@ Aquí hay algunos de mis proyectos más destacados:
 
 ## Contacto
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en [katherine.medinacas@ug.edu.ec]. También puede encontrarme en [tus perfiles en las redes sociales].
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en @katherine.medinacas@ug.edu.ec. También puede encontrarme en @[LinkedIn](www.linkedin.com/in/katherine-medina-).
 
 
 
