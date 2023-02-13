@@ -17,3 +17,12 @@ Aquí hay algunos de mis proyectos más destacados:
 * Página de Adopción [Llevame a casa](https://katherinemedina55.github.io/kmedina.github.io/). He realizado la página de adopción con el fin de dar a conocer a los animalitos que estan buscando un hogar y dueños responsables.
 * 
 *
+
+
+## Contacto
+
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en [katherine.medinacas@ug.edu.ec]. También puede encontrarme en [tus perfiles en las redes sociales].
+
+
+
+Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
