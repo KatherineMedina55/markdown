@@ -2,7 +2,7 @@
 
 [Mi GitHub Pages](https://github.com/KatherineMedina55).
 
-Hera gatita de 2 años ![Hera gatita de 2 años](Snapchat-1876529895.jpg)
+![](Snapchat-1876529895.jpg)
 
 Hola, mi nombre es Katherine Annette Medina Castro y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
@@ -17,7 +17,6 @@ Aquí hay algunos de mis proyectos más destacados:
 
 * Página de Adopción [Llevame a casa](https://katherinemedina55.github.io/kmedina.github.io/). He realizado la página de adopción con el fin de dar a conocer a los animalitos que estan buscando un hogar y dueños responsables.
 * Teachable machine [Teachable machine](https://teachablemachine.withgoogle.com/models/yw6Ah5jSM/). Identificador de objetos.
-* jjj
 
 
 ## Contacto
