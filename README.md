@@ -15,7 +15,7 @@ Soy estudiante de la Universidad de Guayaquil en la carrra de Ingenieria en Soft
 Aquí hay algunos de mis proyectos más destacados:
 
 * Página de Adopción [Llevame a casa](https://katherinemedina55.github.io/kmedina.github.io/). He realizado la página de adopción con el fin de dar a conocer a los animalitos que estan buscando un hogar y dueños responsables.
-* 
+* Teachable machine [Teachable machine](https://teachablemachine.withgoogle.com/models/yw6Ah5jSM/). Identificador de objetos.
 *
 
 
