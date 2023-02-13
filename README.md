@@ -1,6 +1,6 @@
 # Bienvenido a mi página de GitHub
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+Mi GitHub Pages [GitHub Pages](https://github.com/KatherineMedina55).
 
 
 Hola, mi nombre es Katherine Annette Medina Castro y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
