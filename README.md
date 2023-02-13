@@ -2,7 +2,7 @@
 
 [Mi GitHub Pages](https://github.com/KatherineMedina55).
 
-![](Snapchat-1876529895.jpg)
+![](Portada.jpg)
 
 Hola, mi nombre es Katherine Annette Medina Castro y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
